@@ -1,1 +1,1 @@
-# minepy
+# Minecraft + Python
