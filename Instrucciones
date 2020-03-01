@@ -1,14 +1,13 @@
 Para su instalación en Ubuntu:
 
-1. Instalar Minecraft, lo cual realizaremos utilizando https://tlauncher.org/en/ .
-/* este apartado es para enlazar con python 
+1. Instalar Minecraft, lo cual realizaremos utilizando https://tlauncher.org/en/ . Y ejecutar con sudo java -jar tlauncher, así se nos creará la carpeta /root/.minecraft
+/* este apartado es para enlazar con python, si quiero tener un ide python
 Instalar pip (apt-get install pip).
 Instalar python3 e idle.
-Instalar pip install mcpi (requisito instalar pip).
 */
 
 2. Copiar la carpeta mods que nos hemos descargado en /root/.minecraft/mods
-3. Copiar en mcpipy los script que nos hemos descargado.
+3. Copiar en /root/.minecraft/mcpipy los scripts que nos hemos descargado.
 
 Prueba:
 Ejecuta Minecraft (forge 11.2) en modo creativo y mundo plano a ser posible, así podremos utilizar los mods personalizados, teclear t y aparece la consola ahí: /py helloworld.py
